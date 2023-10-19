@@ -1,5 +1,6 @@
 {"options":[
-  { "firstName":"John", "lastName":"Doe" },
-  { "firstName":"Anna", "lastName":"Smith" },
-  { "firstName":"Peter", "lastName":"Jones" }
+  { "id": 1, "text":"Doe" },
+  { "id": 2, "text":"Smith" },
+  { "id": 3, "text":"Jones" }
 ]}
+
